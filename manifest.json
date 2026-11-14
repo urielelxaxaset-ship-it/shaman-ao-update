@@ -1,12 +1,12 @@
 {
-    "version":  10,
-    "fecha":  "2026-11-14 04:46",
+    "version":  11,
+    "fecha":  "2026-11-14 14:30",
     "archivos":  [
                      {
                          "ruta":  "Shaman AO.exe",
                          "tam":  2568192,
-                         "hash":  "CA0F02E73FE34200057777F19B5D60E381A0BB2E98994FC6F5BE4D3FDC8DC5CD",
-                         "mtime":  639302391906000000
+                         "hash":  "B62E273121A78852EA2EC43A245571CDA1D5C8C47254FB1FDC88B232E02C157A",
+                         "mtime":  639302742189420000
                      },
                      {
                          "ruta":  "aodx11.dll",
@@ -46,9 +46,21 @@
                      },
                      {
                          "ruta":  "Data/GRAFICOS/Grh_path.tsao",
+                         "tam":  5481285,
+                         "hash":  "0B7CF21D1D2FF25204E34D177192D88C6318683779B61BC8A447C4811679FC56",
+                         "mtime":  639302734996405914
+                     },
+                     {
+                         "ruta":  "Data/GRAFICOS/Grh_path.tsao.bak_dragon",
                          "tam":  762589,
                          "hash":  "BAABB0FA5B362C476B404607058B6908D4B5ED921FB59900EF451A876F546D6C",
-                         "mtime":  639302374270548105
+                         "mtime":  639302726200702563
+                     },
+                     {
+                         "ruta":  "Data/GRAFICOS/Grh_path.tsao.bak_dungeons",
+                         "tam":  2263800,
+                         "hash":  "372934BD41399774B510A24FC7B8FCBA623FF933DC44881976C6FA27E104E172",
+                         "mtime":  639302734719796096
                      },
                      {
                          "ruta":  "Data/GRAFICOS/Mapa.bmp",
@@ -3213,6 +3225,24 @@
                          "mtime":  638495777850000000
                      },
                      {
+                         "ruta":  "Data/MAPAS/Mapa101.map",
+                         "tam":  30457,
+                         "hash":  "61C1B626319294C06FCBB3E71F2F52A25AD53150255854803EF4803C24B4D306",
+                         "mtime":  639302735008462729
+                     },
+                     {
+                         "ruta":  "Data/MAPAS/Mapa102.map",
+                         "tam":  30273,
+                         "hash":  "3552A269EC4B08A51F926110E8EC40939AF87F60F09DDA40FAB49ED54F4CB98A",
+                         "mtime":  639302735011405084
+                     },
+                     {
+                         "ruta":  "Data/MAPAS/Mapa103.map",
+                         "tam":  30329,
+                         "hash":  "B7609E1F56FEE090A57B1174EF8C6B3FA5E6646EE546D150C3B676201CC8296F",
+                         "mtime":  639302735014442540
+                     },
+                     {
                          "ruta":  "Data/MAPAS/Mapa104.map",
                          "tam":  33555,
                          "hash":  "E84CE6F27A72D571DA5787F958609FA6E3E5C2241593398176952A0B1EA8AD4C",
@@ -3951,10 +3981,28 @@
                          "mtime":  638495777850000000
                      },
                      {
+                         "ruta":  "Data/MAPAS/Mapa76.map",
+                         "tam":  30457,
+                         "hash":  "61C1B626319294C06FCBB3E71F2F52A25AD53150255854803EF4803C24B4D306",
+                         "mtime":  639302734999514995
+                     },
+                     {
+                         "ruta":  "Data/MAPAS/Mapa77.map",
+                         "tam":  30273,
+                         "hash":  "3552A269EC4B08A51F926110E8EC40939AF87F60F09DDA40FAB49ED54F4CB98A",
+                         "mtime":  639302735002482396
+                     },
+                     {
                          "ruta":  "Data/MAPAS/Mapa78.map",
                          "tam":  31091,
                          "hash":  "61D25D8D23B7DEE144753A5B632773FF49EC59D767C63C0F7654543F14C60B1F",
                          "mtime":  638495777850000000
+                     },
+                     {
+                         "ruta":  "Data/MAPAS/Mapa79.map",
+                         "tam":  30329,
+                         "hash":  "B7609E1F56FEE090A57B1174EF8C6B3FA5E6646EE546D150C3B676201CC8296F",
+                         "mtime":  639302735005605386
                      },
                      {
                          "ruta":  "Data/MAPAS/Mapa8.map",
