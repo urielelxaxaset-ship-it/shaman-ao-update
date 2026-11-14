@@ -1,12 +1,12 @@
 {
-    "version":  3,
-    "fecha":  "2026-11-14 03:16",
+    "version":  4,
+    "fecha":  "2026-11-14 03:26",
     "archivos":  [
                      {
                          "ruta":  "Shaman AO.exe",
-                         "tam":  2564096,
-                         "hash":  "180F164511715902F5CEA45E3F5ECB8FA3EEB9D34DC377E57E61C3C40DC9D17C",
-                         "mtime":  639302337921070000
+                         "tam":  2568192,
+                         "hash":  "173CF70A6C268F2B6618937262F510D91D98DDD612AAA1DA4894336F9AEE6EFA",
+                         "mtime":  639302343780690000
                      },
                      {
                          "ruta":  "aodx11.dll",
