@@ -1,12 +1,12 @@
 {
-    "version":  6,
-    "fecha":  "2026-11-14 03:37",
+    "version":  7,
+    "fecha":  "2026-11-14 04:01",
     "archivos":  [
                      {
                          "ruta":  "Shaman AO.exe",
                          "tam":  2568192,
-                         "hash":  "6C133404C2931686C1352E680C201B7A92413DE1DAD9B919DE4651504528615E",
-                         "mtime":  639302350412640000
+                         "hash":  "F2B527C237546AC5EDACB3EDC0131687C557DAA9886CBADCA72E43566F985228",
+                         "mtime":  639302365103950000
                      },
                      {
                          "ruta":  "aodx11.dll",
@@ -46,9 +46,9 @@
                      },
                      {
                          "ruta":  "Data/GRAFICOS/Grh_path.tsao",
-                         "tam":  753509,
-                         "hash":  "7D7F01F7EB569B72F78310F82781FB8F06A4E759053CBF618A8BBC718A1554C5",
-                         "mtime":  639301885073370165
+                         "tam":  785253,
+                         "hash":  "7C97925F272D487360EBCBCEA6E417AB50A2CFDFFA8CBBB64D2FE166FD945F9C",
+                         "mtime":  639302364625522893
                      },
                      {
                          "ruta":  "Data/GRAFICOS/Mapa.bmp",
@@ -3059,8 +3059,8 @@
                      {
                          "ruta":  "Data/INIT/Graficos.ind",
                          "tam":  543252,
-                         "hash":  "DC6B5AE05AE75A8B609BFAE4F0ED5EA76B7016D334F7FCB6CCB669B1A22FDC16",
-                         "mtime":  639301885078043707
+                         "hash":  "FD548F3F08B6BBFB20B67E7B439098F9A0982F1831FC4C9CE0B2CABD758E4806",
+                         "mtime":  639302364633283050
                      },
                      {
                          "ruta":  "Data/INIT/Graficos.ini",
