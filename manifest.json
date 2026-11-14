@@ -1,18 +1,24 @@
 {
-    "version":  1,
-    "fecha":  "2026-11-14 02:29",
+    "version":  2,
+    "fecha":  "2026-11-14 02:58",
     "archivos":  [
                      {
                          "ruta":  "Shaman AO.exe",
-                         "tam":  2560000,
-                         "hash":  "9977B301CE100B19CE04DE0E951ED66F8BC501FB767B88D6305F48EFAE392A00",
-                         "mtime":  639302225437770000
+                         "tam":  2564096,
+                         "hash":  "5BAB82EAA6B5066035932AFDA47ED913375BBBAAEAA6378DD99A42F7FBC24B72",
+                         "mtime":  639302327068500000
                      },
                      {
                          "ruta":  "aodx11.dll",
                          "tam":  168448,
                          "hash":  "E84AC73B06332F4AD0E508B90DCAB2E26F551E6BDEB0EEE541E3B7C0468801EB",
                          "mtime":  639302195948627328
+                     },
+                     {
+                         "ruta":  "Servidor.ini",
+                         "tam":  130,
+                         "hash":  "83DA2ED1E2DD066323EB697DAE7229EF6CFD8879B86269364E445DFDB24C232E",
+                         "mtime":  639302317225047744
                      },
                      {
                          "ruta":  "Data/icono.ico",
